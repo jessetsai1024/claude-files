@@ -1,0 +1,6 @@
+{
+  "name": "files",
+  "version": "0.1.0",
+  "description": "側邊欄的檔案清單：這次對話新建、修改、刪掉了哪些檔案，各改了幾行。/files 開或關",
+  "author": { "name": "Jesse & 螢" }
+}
